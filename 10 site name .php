@@ -10,3 +10,5 @@ const BASE_URL    = "https://www.meylisaeputry.com";
 echo "Site name: " . SITE_NAME . "<br/>";
 echo "URL: " . BASE_URL . "<br/>";
 echo "Version: " . VERSION . "<br/>";
+
+echo "<br><br><br><strong>By meylisa eka putry</strong>";
