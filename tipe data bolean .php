@@ -16,3 +16,5 @@ if ($condition) {
 } else {
     echo "5 tidak lebih besar dari 2.";
 }
+echo "<br><br><br><strong>By meylisa eka putry</strong>";
+
