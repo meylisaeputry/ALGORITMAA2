@@ -1,9 +1,8 @@
 <?php
-$foo = "1";  // mula-mual $foo dalam bentuk string (ASCII 49)
-$foo *= 2;   // $foo sekarang adalah integer (2)
-$foo = $foo * 1.3;  // $foo sekarang adalah float (2.6)
-$foo = 5 * "10 Little birds"; // $foo sekarang adalah integer (50)
-$foo = 5 * "10 Small birds"; // $foo sekarang adalah integer (50)
+$var = "123.45";
+$intvar = "123";
+$intvar = intval($var);//mengubah menjadi integer
+$floatvar = floatval($var);// mengubah menjadi float
+echo $intvar;//output:123
+echo "<p>$floatvar";//output:123.45
 
-
-?>
