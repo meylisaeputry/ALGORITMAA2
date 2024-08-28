@@ -51,4 +51,4 @@ $Belajar,"<p>".
 $BELAJAR,"<p>".
 $belajar,"<p>";
 
-echo "<br><br><br><strong>By meylisa eka putry</strong>";
+echo "<br><br><br><br><strong>By meylisa eka putry</strong>";
