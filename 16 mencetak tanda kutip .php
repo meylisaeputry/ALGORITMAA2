@@ -1,6 +1,6 @@
 <?php
 echo 'hari ini hari jum\'at';
 
-echo "<p><strong>By meylisa eka putry</strong></p>";
+echo "<p><br><strong>By meylisa eka putry</strong></p>";
 
 ?>
